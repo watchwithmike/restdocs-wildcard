@@ -1,0 +1,8 @@
+/build
+/.gradle
+/.idea
+*.iml
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/config.yml
